@@ -1,0 +1,30 @@
+body{
+    background-image: url(pic/paper.jpg);
+    background-size: 100%;
+}
+*{
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    color:deeppink;
+}
+p{
+    font-size: 20px;
+    color:dodgerblue;
+}
+#i1{
+    font-family: fantasy;
+    color:orchid;
+}
+.c1{
+    font-style: italic;
+    color:rgb(224, 148, 86);
+}
+h3,h4{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(228, 99, 94)
+}
+p.c2:hover{
+    color:rgb(187, 189, 66)
+}
